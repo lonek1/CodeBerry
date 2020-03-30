@@ -1,0 +1,1 @@
+Sticky fotter using the solution from Bootstrap
