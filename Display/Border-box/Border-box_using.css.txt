@@ -1,0 +1,20 @@
+ /*border-box zmienia właściwość tak że width odpowiada za całość pudełek, ale bez marginesów(nie tylko za treść)*/
+
+
+#box-01 {
+  background-color: hsla(84, 84%, 56%, .85);
+  width: 20%;
+  
+}
+
+#box-02 {
+  background-color: hsla(84, 84%, 56%, .85);
+  width: 25%;
+  padding: 25px;
+  border: 25px solid black;
+}
+
+div {
+  display: inline-block;
+  
+}
