@@ -1,0 +1,30 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Black Navbar</title>
+  <head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+    <link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
+   
+</head>
+</head>
+<body>
+  <nav>
+   
+    <a href="#" class="sign-up">Sign Up</a></li>
+    <a href="#">Sign In</a></li>
+    <a href="#">About</a></li>
+    <a href="#">Home</a></li>
+ 
+  </nav>
+  <p> Bacon ipsum dolor amet shoulder pastrami prosciutto drumstick ball tip beef ribs. Meatball ham hock tenderloin bresaola beef, tongue shoulder chislic buffalo meatloaf. Spare ribs sirloin biltong, chuck meatball ball tip leberkas tri-tip. Ribeye chicken tongue, biltong drumstick pig swine shoulder ham hock filet mignon cow pork chop.
+  </p>
+  <p>Bresaola flank brisket short ribs shankle tenderloin alcatra andouille cupim spare ribs. Shank ground round cow kielbasa shoulder meatloaf tongue pork chop buffalo beef chicken ribeye chuck jowl porchetta. Hamburger shank chuck ham hock. Hamburger bacon jerky, sirloin kevin chicken rump turducken strip steak cupim shoulder pork chop tongue. Tenderloin biltong doner porchetta, venison strip steak drumstick pastrami swine. Buffalo ball tip corned beef, pig venison pork prosciutto tri-tip filet mignon porchetta beef ribs spare ribs landjaeger. Beef ribs jerky venison andouille brisket pork loin.
+  </p>
+  <p>Sirloin boudin biltong short ribs andouille. Turducken fatback brisket, kielbasa hamburger prosciutto meatloaf burgdoggen ribeye pancetta beef turkey. Bresaola corned beef ham hock picanha, filet mignon frankfurter cow pork belly pig leberkas flank tongue shank ham tri-tip. Doner burgdoggen sausage, chislic strip steak buffalo flank turducken. Chicken ground round beef ribs pork loin, porchetta prosciutto tail. Andouille porchetta kielbasa, pig bresaola pastrami tongue ham hock doner picanha. Leberkas sirloin shankle capicola corned beef.
+  </p>
+  <p>T-bone andouille tenderloin cupim alcatra jowl meatball shank frankfurter kevin swine. Tongue cow ground round rump ball tip landjaeger meatball buffalo pig turducken strip steak chicken spare ribs sausage cupim. Capicola short ribs frankfurter, rump ball tip chuck boudin chicken. Chislic jowl cow, turducken salami bacon ribeye porchetta bresaola chicken. Shankle short loin corned beef, sausage drumstick andouille tongue meatloaf venison tail frankfurter cow. Ground round sirloin pig, venison capicola pastrami short ribs shoulder filet mignon turkey meatloaf bresaola brisket.
+  </p>
+</body>
+</html>
