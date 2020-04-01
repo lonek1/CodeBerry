@@ -1,0 +1,11 @@
+p, a {
+  
+    width: 50%; /*określa szerokośc treści*/
+    padding: 40px; /*określa odstęp od obramowania*/
+    border: 3px solid #c74f78; /*określa ramkę*/
+    margin: 30px; /*określa odstęp od całego kontenera*/
+  display: inline-block; /*określa pokazywanie w jednej lini - jeden pod drugi*/
+}
+/*p {
+  display:none; /*wyłącza pokazywanie danego elementu*/
+}*/
